@@ -1,7 +1,5 @@
 package MayChallenges;
 
-import java.util.ArrayList;
-
 /*
 May 24
 
