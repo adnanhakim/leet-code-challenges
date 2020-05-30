@@ -29,15 +29,10 @@ class May30 {
     public int[][] kClosest(int[][] points, int K) {
         int[][] closest = new int[K][2];
 
-        PriorityQueue<Point> queue = new PriorityQueue<Point>((p1, p2) -> {
-            return (int) (p1.distance * 100 - p2.distance * 100);
-        });
+        PriorityQueue<Point> queue = new PriorityQueue<>((p1, p2) -> (int) (p1.distance * 100 - p2.distance * 100));
 
-        for (int i = 0; i < points.length; i++) {
-            Point point = new Point(points[i][0], points[i][1]);
-            System.out.println(point.distance);
-            queue.add(point);
-        }
+        for (int[] point : points)
+            queue.add(new Point(point[0], point[1]));
 
         for (int i = 0; i < K; i++) {
             Point point = queue.remove();
