@@ -16,6 +16,11 @@ class May1 {
     /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
 
+    // To get rid of error
+    boolean isBadVersion(int version){
+        return true;
+    }
+
     public int firstBadVersion(int n) {
         int left = 1, right = n;
 
