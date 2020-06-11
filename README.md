@@ -16,6 +16,11 @@ A repository containing the solutions of LeetCode Monthly May and June Challenge
 
 1. Developed using plain Java
 
+## Solutions
+
+-  May 22 to May 30
+-  June 1 to present
+
 ## Developer
 
 -  Adnan Hakim [github.com/adnanhakim](https://github.com/adnanhakim)
