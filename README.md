@@ -18,7 +18,7 @@ A repository containing the solutions of LeetCode Monthly May and June Challenge
 
 ## Solutions
 
--  May 22 to May 30
+-  May 1 to May 31
 -  June 1 to present
 
 ## Developer
