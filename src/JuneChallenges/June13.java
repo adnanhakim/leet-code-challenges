@@ -23,7 +23,7 @@ class June13 {
         if (nums == null || nums.length == 0) return res;
 
         Arrays.sort(nums);
-        int n = nums.length, maxIndex = 0;;
+        int n = nums.length, maxIndex = 0;
         int[] dp = new int[n];
         dp[0] = 1;
 
