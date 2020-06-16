@@ -1,5 +1,7 @@
 package JuneChallenges;
 
+import java.util.regex.Pattern;
+
 /*
 June 15
 
@@ -14,8 +16,6 @@ Note: You may assume there is no extra space or special characters in the input 
 
 https://leetcode.com/explore/featured/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3362/
 */
-
-import java.util.regex.Pattern;
 
 class June16 {
     // Solution 1 - Regex (Time - 7ms)
