@@ -6,6 +6,7 @@ import java.util.Queue;
 /*
 June 23
 
+Question: Count Complete Tree Nodes
 Given a complete binary tree, count the number of nodes.
 Note:
 Definition of a complete binary tree from Wikipedia:
