@@ -10,7 +10,9 @@ A repository containing the solutions of LeetCode Monthly May and June Challenge
 
 [LeetCode June Challenge](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/)
 
-**About the Challenge:** This Challenge is beginner-friendly and available to both Premium and non-Premium users. It consists of 30 daily problems over the month of June. A problem is added here each day, and you have 24 hours to make a valid submission for it in order to be eligible for rewards.
+[LeetCode July Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/)
+
+**About the Challenge:** This Challenge is beginner-friendly and available to both Premium and non-Premium users. It consists of 31 daily problems over the month of July. A problem is added here each day, and you have 24 hours to make a valid submission for it in order to be eligible for rewards.
 
 ## Technology Stack
 
@@ -20,6 +22,7 @@ A repository containing the solutions of LeetCode Monthly May and June Challenge
 
 -  May 1 to May 31
 -  June 1 to June 30
+-  July 1 to Present
 
 ## Developer
 
