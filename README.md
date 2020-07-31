@@ -2,7 +2,7 @@
 
 ## About
 
-A repository containing the solutions of LeetCode Monthly May and June Challenges using plain java code.
+A repository containing the solutions of LeetCode Monthly May, June and July Challenges using plain java code.
 
 ![LeetCode 30 Day Challenge](https://miro.medium.com/max/1000/1*hDtgr-huVXLXpx7ocIJMyg.png)
 
@@ -22,7 +22,7 @@ A repository containing the solutions of LeetCode Monthly May and June Challenge
 
 -  May 1 to May 31
 -  June 1 to June 30
--  July 1 to Present
+-  July 1 to July 31
 
 ## Developer
 
