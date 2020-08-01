@@ -2,7 +2,7 @@
 
 ## About
 
-A repository containing the solutions of LeetCode Monthly May, June and July Challenges using plain java code.
+A repository containing the solutions of LeetCode Monthly May, June, July and August Challenges using plain java code.
 
 ![LeetCode 30 Day Challenge](https://miro.medium.com/max/1000/1*hDtgr-huVXLXpx7ocIJMyg.png)
 
@@ -12,7 +12,9 @@ A repository containing the solutions of LeetCode Monthly May, June and July Cha
 
 [LeetCode July Challenge](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/)
 
-**About the Challenge:** This Challenge is beginner-friendly and available to both Premium and non-Premium users. It consists of 31 daily problems over the month of July. A problem is added here each day, and you have 24 hours to make a valid submission for it in order to be eligible for rewards.
+[LeetCode August Challenge](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)
+
+**About the Challenge:** This Challenge is beginner-friendly and available to both Premium and non-Premium users. It consists of 31 daily problems over the month of August. A problem is added here each day, and you have 24 hours to make a valid submission for it in order to be eligible for rewards.
 
 ## Technology Stack
 
@@ -23,6 +25,7 @@ A repository containing the solutions of LeetCode Monthly May, June and July Cha
 -  May 1 to May 31
 -  June 1 to June 30
 -  July 1 to July 31
+-  August 1 to present
 
 ## Developer
 
