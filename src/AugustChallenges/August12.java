@@ -25,8 +25,8 @@ class August12 {
         int n = prevRow.size();
 
         row.add(1);
-        for (int i = 0, j = 1; i < n - 1 && j < n; i++, j++)
-            row.add(prevRow.get(i) + prevRow.get(j));
+        for (int i = 0; i < n - 1; i++)
+            row.add(prevRow.get(i) + prevRow.get(i + 1));
         row.add(1);
 
         return row;
