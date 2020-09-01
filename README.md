@@ -14,6 +14,8 @@ A repository containing the solutions of LeetCode Monthly May, June, July and Au
 
 [LeetCode August Challenge](https://leetcode.com/explore/featured/card/august-leetcoding-challenge/)
 
+[LeetCode September Challenge](https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/)
+
 **About the Challenge:** This Challenge is beginner-friendly and available to both Premium and non-Premium users. It consists of 31 daily problems over the month of August. A problem is added here each day, and you have 24 hours to make a valid submission for it in order to be eligible for rewards.
 
 ## Technology Stack
@@ -25,7 +27,8 @@ A repository containing the solutions of LeetCode Monthly May, June, July and Au
 -  May 1 to May 31
 -  June 1 to June 30
 -  July 1 to July 31
--  August 1 to present
+-  August 1 to August 31
+-  September 1 to present
 
 ## Developer
 
