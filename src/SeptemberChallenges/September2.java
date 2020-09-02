@@ -20,8 +20,8 @@ class September2 {
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j <= i + k; j++) {
                 if (j >= nums.length)
-                    break
-                            ;
+                    break;
+
                 if ((long) nums[i] - (long) nums[j] > (long) Integer.MAX_VALUE ||
                         (long) nums[j] - (long) nums[i] > (long) Integer.MAX_VALUE)
                     continue;
