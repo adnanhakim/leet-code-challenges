@@ -9,7 +9,7 @@ Given a non-empty string check if it can be constructed by taking a substring of
 https://leetcode.com/explore/challenge/card/september-leetcoding-challenge/554/week-1-september-1st-september-7th/3447/
 */
 
-public class September3 {
+class September3 {
     public boolean repeatedSubstringPattern(String s) {
         int stringLength = s.length();
         int repeatLength = 1;
