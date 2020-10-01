@@ -18,7 +18,7 @@ class September20 {
     int rows, cols;
     int[][] grid;
     int pathCount;
-    
+
     public int uniquePathsIII(int[][] grid) {
         int nonObstacles = 0, startRow = 0, startCol = 0;
 
